@@ -1,4 +1,5 @@
 #Analysing housing prices in Luxembourg
+#2. Kommentar
 
 library(dplyr)
 library(ggplot2)
